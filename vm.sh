@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#前提自备镜像
 for((i=1;i<2;i++))
 do
 cd /var/lib/libvirt/images/
